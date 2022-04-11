@@ -1,7 +1,7 @@
 <template>
 
     <div>
-        <img alt="Hero Bonus" src=".//assets/it-takes-two-hero-banner-desktop.jpg.png">
+        <img alt="Hero Bonus" src="">
     </div>
   
 </template>
