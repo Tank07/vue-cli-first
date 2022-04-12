@@ -1,7 +1,7 @@
 <template>
 
     <div>
-        <img alt="Hero Bonus" src="">
+        <img alt="Hero Bonus" src="../assets/ittakestwo.jpg">
     </div>
   
 </template>
